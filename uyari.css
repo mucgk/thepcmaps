@@ -1,0 +1,34 @@
+.dikkat{
+    border:solid 1px #DEDEDE;
+    background:#FFFFCC url(http://icons.iconarchive.com/icons/famfamfam/mini/16/icon-alert-icon.png) 8px 6px no-repeat;
+    color:#222222;
+            font-weight:bold;
+    padding:4px;
+    text-align:center;
+}
+.onay{
+    border:solid 1px #90ac13;
+    background:#eef4d3 url(http://icons.iconarchive.com/icons/famfamfam/silk/16/accept-icon.png) 8px 6px no-repeat;
+    color:#6b800d;
+    font-weight:bold;
+    padding:4px;
+    text-align:center;
+}
+.uyari{
+    border:solid 1px #CC0000;
+    background:#F7CBCA url(http://icons.iconarchive.com/icons/famfamfam/silk/16/delete-icon.png) 8px 6px no-repeat;
+    color:#CC0000;
+    font-weight:bold;
+    padding:4px;
+    text-align:center;
+}
+#kutu {
+    position: relative;
+    top: 170px;
+      width: 250px;
+      padding: 10px;
+      left:550px;
+      margin: 10px;
+      margin-left: 25px;
+      margin-right: 10px;
+    }
